@@ -10,7 +10,7 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-mongo`:
+Next, install [`eslint-plugin-mongo`](https://www.npmjs.com/package/eslint-plugin-mongo):
 
 ```
 $ npm install eslint-plugin-mongo --save-dev
