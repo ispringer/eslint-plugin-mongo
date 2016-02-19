@@ -5,7 +5,9 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "mongo",
+    "mongodb"
   ],
   "author": "Ian Springer",
   "license": "Apache-2.0",
@@ -26,7 +28,7 @@
   },
   "peerDependencies": {
     "eslint": ">=0.8.0"
-  }
+  },
   "devDependencies": {
     "eslint": "~1.2.0"
   },
