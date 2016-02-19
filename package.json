@@ -1,0 +1,36 @@
+{
+  "name": "eslint-plugin-mongo",
+  "version": "1.0.0",
+  "description": "ESLint environments for MongoDB",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Ian Springer",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispringer/eslint-plugin-mongo"
+  },
+  "bugs": {
+    "url": "https://github.com/ispringer/eslint-plugin-mongo/issues"
+  },
+  "homepage": "https://github.com/ispringer/eslint-plugin-mongo",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  }
+  "devDependencies": {
+    "eslint": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
