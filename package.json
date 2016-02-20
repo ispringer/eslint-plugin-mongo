@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-mongo",
   "version": "1.0.5",
-  "description": "ESLint environments for MongoDB",
+  "description": "ESLint plugin for MongoDB",
   "keywords": [
     "eslint",
     "eslintplugin",
